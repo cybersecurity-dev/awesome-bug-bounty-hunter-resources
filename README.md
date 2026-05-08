@@ -18,13 +18,16 @@
 
 ## 📖 Contents
 - [Books](#books)
+- [Videos](#videos)
 - [My Other Awesome Lists](#my-other-awesome-lists)
 - [Contributing](#contributing)
 - [Contributors](#contributors)
 
-
-## Books
+### Books
 - [The Tangled Web: A Guide to Securing Modern Web Applications](https://www.amazon.com/Tangled-Web-Securing-Modern-Applications-ebook/dp/B006FZ3UNI)
+
+### Videos
+
 
 ##
 
